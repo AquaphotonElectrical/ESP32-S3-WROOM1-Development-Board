@@ -1,0 +1,23 @@
+﻿Designator,LibRef,Description,Quantity
+"SB1, SB2",TS-1187A-B-A-B,"[NoValue], No NO 50mA 5.1mm 100mΩ 100000 160gf 12V -30℃~+85℃ 5.1mm 1.5mm Golden Round Button Brick nogging SPST SMD Tactile Switches ROHS",2
+U3,SSP1117-3.3V,1A Fixed 3.3V Positive 20V SOT-223-3 Linear Voltage Regulators (LDO),1
+"R1, R2",RES 0603 10k 1%,Res Thick Film 0603 10K Ohm 1% 1/10W ±100ppm/°C Molded SMD Punched Carrier T/R,2
+R3,RES 0603 10k 1%,Res Thick Film 0603 10K Ohm 1% 1/10W ±100ppm/°C Molded SMD Punched Carrier T/R,1
+"R5, R6, R11, R12",RES 0603 5.1k 1%,Res Thick Film 0603 5.1K Ohm 1% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R,4
+"R7, R8, R9, R10, R13",RES 0603 1k 1%,Res Thick Film 0603 1K Ohm 1% 1/10W ±100ppm/°C Molded SMD Punched Carrier T/R,5
+R4,RES 0603 0R 1%,ERJ Series 0603 0 Ohm 0.05 W Jumper Surface Mount Thick Film Chip Resistor,1
+"D2, D3, D4, D10, D11, D12",LESD5D5.0CT1G,Bi-Directional 9.4A 5V 18.6V 5.6V SOD-523 ESD Protection Devices ROHS,6
+"D6, D7",LED 0805 Red,red 0805 Light Emitting Diodes (LED) ROHS,2
+"D8, D9, D13",LED 0805 Emerald,,3
+U1,ESP32-S3-WROOM-1-N16R2,"WiFi-Modul 802.11/BT 2, 4-2, 5GHz 150Mb/s",1
+"J1, J2",Connector_USB_Type_C_16Pin 3A,3A 1 Surface Mount 16P Female -40℃~+85℃ Type-C SMD USB Connectors ROHS,2
+"P1, P2",Connector Pinheader 1x20,Header_20x1,2
+"P3, P4",Connector Pinheader 1x2,Header_2x1,2
+U2,CH340G,Transceiver 2Mbps USB 2.0 SOP-16-150mil USB ICs ROHS,1
+"C3, C5, C6, C7, C9, C12, C13","CAP 0603 100nF 50V, CAP 0603 100nF 100V","Multilayer Ceramic Capacitors MLCC Surface Mount 0603 0.1uF 50 Volts X7R 10%, 0603 0.1 uF 100 V ±10% Tolerance X7R Multilayer Ceramic Capacitor",7
+C2,CAP 0603 22uF 16V,6.3V 22uF X5R ±20% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,1
+"C10, C11",CAP 0603 10uF 35V,Cap Ceramic 10uF 35V X5R 20% Pad SMD 0603 85C T/R,2
+C8,CAP 0603 1uF 50V,0603 1 uF 50 V ±10% Tolerance X5R SMT Multilayer Ceramic Capacitor,1
+"Q1, Q2",BC817,NPN Ic=500mA Vceo=45V hfe=100~250 P=225mW SOT-23,2
+"D1, D5",B5819W,40V 600mV@1A 1A SOD-123 Schottky Barrier Diodes (SBD) ROHS,2
+"F1, F2",1206L110THYR,PTC RESET FUSE 8V 1.1A 1206,2
